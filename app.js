@@ -96,6 +96,17 @@ const data = [
     country: "Greece",
     animalCard:false
   },
+  {
+    userName: "Zissis Vassos",
+    udacityForumUserName: "Zissis.Vassos",
+    placeName: "Loutraki, Korinthos",
+    altPlaceName: "Λουτράκι, Κόρινθος",
+    description: "Loutraki is a small town close to Athens that combines mountain and sea, this makes it an ideal destination for a quick walk away from the hubbub of the city",
+    latLong:[37.9746866,22.9724661],
+    imgUrl: "https://upload.wikimedia.org/wikipedia/commons/3/3e/Loutraki05.jpg",
+    country: "Greece",
+    animalCard:false
+  },
   //To add a new pin on the map (with default-bootstrap-style-card) 
   //Uncomment the following lines and change the values
   // userName: 'Your Real Name', //not required but will probably added somewher in the page in a latter update
